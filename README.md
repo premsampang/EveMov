@@ -4,7 +4,7 @@ Title of the project: Eve Movement
 
 How to Run: Drag the mouse around, you will noticed eyebulb inside moving to the direction of your mouse.
 
-Roadmap of future improvements: Adding differents layers of color and make eyes blink with a click.
+Roadmap of future improvements: Adding different layers of color and make eyes blink with a click.
 
 License Information: MIT License
 Copyright (c) 2022 
